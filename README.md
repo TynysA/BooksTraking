@@ -1,4 +1,7 @@
 # BooksTraking
+A program designed to develop skills next.js
+React typescript
+
 
 First, run the development server:
 
